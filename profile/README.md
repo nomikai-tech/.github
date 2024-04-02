@@ -22,7 +22,9 @@ Check out the following links to follow the progress:
 - [Thomas Matta | COO](https://www.linkedin.com/in/tommatta/)
 
 
-### Brand Colors
+### Brand / Media
+[Style Guide](https://github.com/nomikai-tech/style-guide)
+
 | `Rose` | `Turquoise` | `Azure` | `Light Blue` | `Aquamarine` | `Slate Gray` |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 |<a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/fe017f?style=round&size=50'/></a> <br/> #fe017f|<a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/3edfcf?style=round&size=50'/></a> <br/> #3edfcf|<a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/f0ffff?style=round&size=50'/></a> <br/> #f0ffff|<a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/add8e6?style=round&size=50'/></a> <br/> #add8e6|<a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/7efed2?style=round&size=50'/></a> <br/> #7efed2|<a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/697b8c?style=round&size=50'/></a> <br/> #697b8c|
