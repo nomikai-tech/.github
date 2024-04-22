@@ -6,7 +6,7 @@
     </picture>
     <h1 align="center">Nomikai</h1>
     <h2 align="center">Welcome to Nomikai!</h2>
-    <h3 align="center">AI-driven Data Hub for Non-technical Teams</h3>
+    <h3 align="center">no-code data tools for go-to-market teams</h3>
   </a>
 </p>
 
