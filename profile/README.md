@@ -6,7 +6,7 @@
     </picture>
     <h1 align="center">Nomikai</h1>
     <h2 align="center">Welcome to Nomikai!</h2>
-    <h3 align="center">Automate GTM operations with orchestrated AI agents</h3>
+    <h3 align="center">automate GTM operations with orchestrated AI agents</h3>
   </a>
 </p>
 
