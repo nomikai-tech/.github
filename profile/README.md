@@ -1,12 +1,12 @@
 <p align="center">
   <a href="https://nomikai.com">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://imagedelivery.net/dFIo1wWuUZtJiq57QrgKWw/5772d93d-7110-4931-4d73-cb63f2074f00/public">
-      <img src="https://imagedelivery.net/dFIo1wWuUZtJiq57QrgKWw/5772d93d-7110-4931-4d73-cb63f2074f00/public" height="128">
+      <source media="(prefers-color-scheme: dark)" srcset="https://imagedelivery.net/dFIo1wWuUZtJiq57QrgKWw/c8273bff-ba89-4bb0-8a53-9c1542f05700/public">
+      <img src="https://imagedelivery.net/dFIo1wWuUZtJiq57QrgKWw/c8273bff-ba89-4bb0-8a53-9c1542f05700/public" height="128">
     </picture>
     <h1 align="center">Nomikai</h1>
     <h2 align="center">Welcome to Nomikai!</h2>
-    <h3 align="center">automate GTM operations with orchestrated AI agents</h3>
+    <h3 align="center">Next generation lead conversion platform</h3>
   </a>
 </p>
 
